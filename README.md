@@ -4,6 +4,17 @@ A social media app with functionalities such as creating posts, liking, commenti
 following/unfollowing users, and searching users. Leveraged Firebase for data management
 and authentication.
 
+## To run this app
+1. Fill all empty string and add this code to  <FirebaseOptions firebaseOptions = const FirebaseOptions(
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+);>
+
+
 ## New features to be added
 1. One to One chat (work in progress)
 
