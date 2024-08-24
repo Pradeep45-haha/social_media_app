@@ -5,6 +5,7 @@ following/unfollowing users, and searching users. Leveraged Firebase for data ma
 and authentication.
 
 ## To run this app
+0. Go to firebase and get google-services.json add to path <android/app> folder.
 1. Fill all empty string   <FirebaseOptions firebaseOptions = const FirebaseOptions(
   apiKey: "",
   authDomain: "",
