@@ -5,7 +5,7 @@ following/unfollowing users, and searching users. Leveraged Firebase for data ma
 and authentication.
 
 ## To run this app
-1. Fill all empty string and add this code to  <FirebaseOptions firebaseOptions = const FirebaseOptions(
+1. Fill all empty string   <FirebaseOptions firebaseOptions = const FirebaseOptions(
   apiKey: "",
   authDomain: "",
   projectId: "",
@@ -13,6 +13,8 @@ and authentication.
   messagingSenderId: "",
   appId: "",
 );>
+2. and add this code to <lib/config/const.dart>
+3. Run this command in terminal <flutter run -d chrome --web-browser-flag "--disable-web-security">.
 
 
 ## New features to be added
