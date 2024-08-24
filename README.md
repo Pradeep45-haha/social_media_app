@@ -1,6 +1,8 @@
 # instagram_mmvm_dp_clone
 
-A new Flutter project.
+A social media app with functionalities such as creating posts, liking, commenting,
+following/unfollowing users, and searching users. Leveraged Firebase for data management
+and authentication.
 
 ## Getting Started
 
