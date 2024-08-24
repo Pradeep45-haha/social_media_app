@@ -5,7 +5,7 @@ following/unfollowing users, and searching users. Leveraged Firebase for data ma
 and authentication.
 
 ## New features to be added
-1. One to One chat
+1. One to One chat (work in progress)
 
 ## Getting Started
 
